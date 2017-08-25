@@ -1,0 +1,195 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Zip Recipes Ltd
+# This file is distributed under the same license as the zip-recipes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: zip-recipes\n"
+"Report-Msgid-Bugs-To: hello@ziprecipes.net\n"
+"POT-Creation-Date: 2017-04-18 19:02-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, php-format
+msgid "%d day"
+msgstr ""
+
+#, php-format
+msgid "%d days"
+msgstr ""
+
+#, php-format
+msgid "%d hour"
+msgstr ""
+
+#, php-format
+msgid "%d hours"
+msgstr ""
+
+#, php-format
+msgid "%d minute"
+msgstr ""
+
+#, php-format
+msgid "%d minutes"
+msgstr ""
+
+#, php-format
+msgid "%d month"
+msgstr ""
+
+#, php-format
+msgid "%d months"
+msgstr ""
+
+#, php-format
+msgid "%d second"
+msgstr ""
+
+#, php-format
+msgid "%d seconds"
+msgstr ""
+
+#, php-format
+msgid "%d year"
+msgstr ""
+
+#, php-format
+msgid "%d years"
+msgstr ""
+
+msgid "Author:"
+msgstr ""
+
+msgid "Calories per serving:"
+msgstr ""
+
+msgid "Calories:"
+msgstr ""
+
+msgid "Carbs per serving:"
+msgstr ""
+
+msgid "Carbs:"
+msgstr ""
+
+msgid "Category:"
+msgstr ""
+
+msgid "Cholesterol per serving:"
+msgstr ""
+
+msgid "Cholesterol:"
+msgstr ""
+
+msgid "Cook"
+msgstr ""
+
+msgid "Cook Time:"
+msgstr ""
+
+msgid "Cuisine:"
+msgstr ""
+
+msgid "Fat per serving:"
+msgstr ""
+
+msgid "Fat:"
+msgstr ""
+
+msgid "Fiber per serving:"
+msgstr ""
+
+msgid "Fiber:"
+msgstr ""
+
+msgid "Ingredients"
+msgstr ""
+
+msgid "Instructions"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Prep"
+msgstr ""
+
+msgid "Prep Time:"
+msgstr ""
+
+msgid "Prep:"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Print this recipe"
+msgstr ""
+
+msgid "Protein per serving:"
+msgstr ""
+
+msgid "Protein:"
+msgstr ""
+
+msgid "Rate this recipe"
+msgstr ""
+
+msgid "Ready in"
+msgstr ""
+
+msgid "Saturated fat per serving:"
+msgstr ""
+
+msgid "Saturated fat:"
+msgstr ""
+
+msgid "Serves:"
+msgstr ""
+
+msgid "Serving Size:"
+msgstr ""
+
+msgid "Sodium per serving:"
+msgstr ""
+
+msgid "Sodium:"
+msgstr ""
+
+msgid "Sugar per serving:"
+msgstr ""
+
+msgid "Sugar:"
+msgstr ""
+
+msgid "Total Time:"
+msgstr ""
+
+msgid "Total:"
+msgstr ""
+
+msgid "Trans fat per serving:"
+msgstr ""
+
+msgid "Trans fat:"
+msgstr ""
+
+msgid "Yield:"
+msgstr ""
+
+msgid "Your rating:"
+msgstr ""
+
+msgid "ratings"
+msgstr ""
+
+msgid "stars"
+msgstr ""

@@ -1,0 +1,381 @@
+/*
+Theme Name: Fluida Child Theme
+Theme URI: http://www.cryoutcreations.eu/wordpress-themes/fluida-child/
+Description: Fluida is a modern, crystal clear and squeaky clean theme. It shines bright with a fluid and responsive layout and carries under its hood a light and powerful framework.
+Author: Natalie Rose
+Author URI: http://www.cryoutcreations.eu
+Template: fluida
+Version: 1.2.8.1
+License: GNU General Public License v3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: one-column, two-columns, three-columns, right-sidebar, left-sidebar, grid-layout, custom-background, custom-colors, custom-header, flexible-header, custom-menu, featured-image-header, featured-images, front-page-post-form, full-width-template, footer-widgets, microformats, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, news, entertainment, photography, portfolio
+Text Domain: fluida-child
+
+Fluida WordPress Theme - Copyright 2015, Cryout Creations - http://www.cryoutcreations.eu
+This theme, like WordPress, is licensed under the GPL.
+*/
+@import url("../fluida-theme/style.css");
+
+
+/*============= Front Page ==========*/
+.lp-boxes-static .lp-box-title, h2.lp-section-title, .main .lp-block-title{
+  color: #00a800;
+}
+ .lp-box-text-inside{
+   color: #eeeeee;
+ }
+span.current{
+  color:#00a800;
+}
+.front-about, .front-work, .front-contact{
+  background-color: #111 !important;
+}
+.front-work p, .front-about p{
+  color: #919191;
+}
+.front-work h3, .front-about h3{
+  color: #00a800;
+}
+.front-work{
+  padding: 5%;
+}
+.front-about{
+  padding: 5%;
+  float: left;
+}
+#front-about-img{
+  float: left;
+  display: block;
+  max-width: 80%;
+  margin: 5%;
+}
+#front-about-text, #about-text{
+  padding: 1% 0 1% 3%;
+  display: block;
+  float: left;
+  width: 100%;
+  background-color: #111111;
+}
+article#post-48080.post-48080.page.type-page.status-publish.hentry{
+  background-color: #111111 !important;
+}
+.pagination span, .pagination a{
+  background-color: #111 !important;
+  border: 1px solid #00a800;
+}
+.front-contact{
+  float: left;
+  width: 100%;
+  border-bottom: 1px solid #00a800;
+  border-top: 1px solid #00a800;
+  padding: 2%;
+}
+.front-contact h5{
+  text-align: center;
+  font-size: 2em;
+  color: #00a800;
+}
+.front-contact p{
+  text-align: center;
+  font-size: 1.5em;
+  color: #00a800;
+}
+section#lp-text-one.lp-text{
+  background-color: #111111 !important;
+}
+section#lp-text-one.lp-text h2{
+  color: #00a800;
+}
+header.page-header.pad-container{
+    border-top: none !important;
+}
+.front-shirt-section{
+  width: 100%;
+  float: left;
+  background-color: #111111;
+  text-align: center;
+}
+.front-shirt-section h3, #tube-link h3, #vodka-link h3{
+  color: #00ace6;
+}
+.front-shirt-section h4, .front-shirt-section p{
+  color: #00a800;
+}
+.front-shirt-section a:hover{
+  text-decoration: underline;
+}
+#vodka-link, #tube-link{
+  width: 45%;
+  display: inline-block;
+}
+/* ========== Blog Main ============= */
+span.page-numbers.current{
+  background-color: black;
+}
+h2.widget-title{
+  font-family: Open Sans;
+  font-size: 96%;
+  font-weight: 700;
+  color: #00a800;
+}
+header.page-header.pad-container{
+  background: #111111;
+}
+h1.page-title{
+  color: #00a800;
+}
+/* ============= Blog Sidebar ======== */
+#mc_embed_signup form{
+color: #00a800;
+}
+#mc_embed_signup{
+  background: #111 !important;
+}
+#mc_embed_signup input.button{
+  color: #fff;
+  background-color: #00a800;
+}
+#mc_embed_signup input{
+  border: 1px solid #00a800 !important;
+}
+div.textwidget{
+  color: #00a800;
+  text-align: center !important;
+}
+h2.widget-title{
+  text-align: center !important;
+}
+
+/*============== Contact Me ==================*/
+#post-47948{
+  background-color: #111111 !important;
+}
+
+/* =============== About Me =================== */
+.about-text span{
+  font-size: .85em;
+  font-style: italic;
+  text-align: center;
+}
+.about-img, .about-text{
+  float: left;
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+.about-text p, .about-work p{
+  color: #00a800;
+}
+.about-text p span{
+  font-size: 1.2em;
+  color: #00ace6;
+}
+.about-work h3, .about-text h2{
+ color: #00ace6;
+}
+.about-text{
+  margin-bottom: 10%;
+}
+.about-work{
+  text-align: center;
+  float: left;
+  width: 100%;
+  margin: 5% 0 5% 0;
+  padding: 3% 0 3% 0;
+}
+.about-work-border{
+  width: 100%;
+  float: left;
+  border-bottom: 1px solid #00a800;
+  border-top: 1px solid #00a800;
+}
+.facebook{
+  float: left;
+  width: 35%;
+  margin-top: 7%;
+  display: none;
+}
+.insta{
+  float: left;
+  margin: 4% 0 4% 0;
+}
+.insta-text p{
+  text-align: center;
+  color: #00ace6;
+  font-size: 1.5em;
+}
+#sb_instagram.sbi_col_3 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_4 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_5 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_6 #sbi_images .sbi_item{
+  width: 100%;
+}
+#sb_instagram.sbi_col_7 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_8 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_9 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_10 #sbi_images .sbi_item{
+  width: 50%;
+}
+#sb_instagram .sb_instagram_header{
+  text-align: center;
+}
+#sb_instagram .sb_instagram_header a{
+  display: inline-block;
+  visibility: hidden;
+}
+/* =============== Shirts Page ============ */
+.shirt-content, .front-shirt-content{
+  width: 100%;
+  float: left;
+}
+.shirt-section1{
+  width: 100%;
+  float: left;
+}
+.shirt-section1 h2{
+  text-align: center;
+}
+.shirt-section1 img{
+  width: 100%;
+}
+
+
+
+
+
+/*=============================================*/
+/*============= Responsive Design =============*/
+/*=============================================*/
+
+@media screen and (min-width: 768px) {
+  /*Tablet styles here!*/
+
+/* =========== About ================ */
+.about-text{
+  width: 95%;
+  padding: 5%;
+  margin-bottom: 0;
+}
+.about-work{
+  width: 95%;
+  margin-bottom: 5%;
+  padding: 5%;
+}
+.facebook{
+  display: block;
+  margin: 0% 2% 5% 33%;
+}
+
+.insta{
+  float: left;
+  display: block;
+  padding: 10 0 10% 0;
+}
+#sb_instagram.sbi_col_3 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_4 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_5 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_6 #sbi_images .sbi_item{
+  width: 25%;
+}
+#sb_instagram.sbi_col_7 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_8 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_9 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_10 #sbi_images .sbi_item{
+  width: 15%;
+}
+
+
+/*=============================================*/
+/*=============================================*/
+@media screen and (min-width: 940px) {
+    /*Desktop styles here!*/
+
+/* =========== Front Page =========== */
+.front-work{
+  padding: 5% 14% 5% 14%;
+}
+#front-about-img{
+  float: left;
+  display: inline-block;
+  max-width: 30%;
+  margin: 5%;
+}
+.front-shirt-content{
+  float: left;
+  border-bottom: 1px solid #00a800;
+  border-top: 1px solid #00a800;
+  padding: 5% 0 5% 0;
+  background-color: #111111 !important;
+}
+.front-shirt-section{
+  width: 100%;
+  float: left;
+  background-color: #111111 !important;
+  text-align: center;
+}
+.front-shirt-section h3, #tube-link h3, #vodka-link h3{
+  color: #00ace6;
+}
+#tube-link, #vodka-link{
+  text-align: center;
+  width: 50%;
+  float: left;
+  display: inline-block;
+}
+
+/* =========== About Me ============= */
+
+.about-img{
+  float: left;
+  display: inline-block;
+  width: 45%;
+}
+.about-text{
+  float: left;
+  display: inline-block;
+  width: 50%;
+}
+.about-img{
+  margin: 8% 0 0 2%;
+}
+.about-work{
+  width: 63%;
+  margin-bottom: 5%;
+  padding: 0 5%;
+  display: inline-block;
+}
+.facebook{
+  float: left;
+  display: inline-block;
+  width: 35%;
+  margin: 7% 0 0 0;
+}
+
+.insta{
+margin: 0 10% 0 10%;
+padding: 0 0 10% 0;
+}
+#sb_instagram.sbi_col_3 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_4 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_5 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_6 #sbi_images .sbi_item{
+  width: 25%;
+}
+#sb_instagram.sbi_col_7 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_8 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_9 #sbi_images .sbi_item,
+#sb_instagram.sbi_col_10 #sbi_images .sbi_item{
+  width: 15%;
+}
+/* =============== Shirt Page ========== */
+
+.shirt-section1, .shirt-section2{
+  display: inline-block;
+  width: 50%;
+}
+
+
+
+
+
+}
