@@ -72,7 +72,7 @@ function fluida_lp_layoutclass () {
 	<div class="front-contact">
 		<h5>I'm also a WordPress & Front-End Developer!</h5>
     <p>Check out my website for more info!</p>
-		<p><a href="http://natalierose.wpengine.com" target="_blank">www.natalierose.net</a></p>
+		<p><a href="http://www.natalierose.net" target="_blank">www.natalierose.net</a></p>
 	</div><!--work-with-me-->
 </div><!--front-contact-->
 
